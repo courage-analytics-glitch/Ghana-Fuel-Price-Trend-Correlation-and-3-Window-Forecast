@@ -1,0 +1,13 @@
+dataset,source,date_pulled
+"Brent crude, 5-year annual average","EIA / World of Statistics, compiled annual averages",2026-08-06
+"Cedi/USD, 5-year annual average","exchange-rates.org, TheGlobalEconomy.com, compiled annual averages",2026-08-06
+Local pump price benchmarks,"NPA pricing window announcements, press coverage",2026-08-06
+Combined trend and correlation,"Derived from Brent, cedi, and pump price tables above",2026-08-06
+Current momentum and forecast,"TradingEconomics (Brent), press coverage (cedi 6-month trend)",2026-08-06
+Taxes and levies,"NPA price build-up structure, CBOD market outlook reports",2026-08-06
+OMC and UPPF margins,"NPA price build-up structure, CBOD market outlook reports",2026-08-06
+Price floors by pricing window,"NPA pricing window announcements, April-August 2026",2026-08-06
+Levy and margin share by window,"CBOD Ghana market outlook reports, April and May 2026 windows",2026-08-06
+Subsidy and intervention events,NPA policy history; Cabinet-approved 2026 relief measures,2026-08-06
+Price composition by product (incl. LPG),Derived from taxes_and_levies and omc_uppf_margins; LPG share estimated from levy_margin_share,2026-08-06
+Product consumption share,Chamber of Oil Marketing Companies (COMAC) 2025 downstream sector report,2026-08-06
